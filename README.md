@@ -4,3 +4,8 @@ Description:  This C++ program connects to a MySQL database and manages an airli
 Note: This program is made using C++ OOP concepts. Also DATABASE Connectivity is implemented.
 </p>
 <br>
+<p>
+Note: It is working porperly without any errors.<br>
+      Use DevC++ for Project as i have built database connection using it. Database connection is made using MYSQL Workbench.
+</p>
+<br>      
